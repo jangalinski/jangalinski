@@ -5,12 +5,17 @@
 
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  - [avro-kotlin](https://github.com/toolisticon/avro-kotlin)
+  - [kotlin-code-generation](https://github.com/toolisticon/kotlin-code-generation)
+  - [axon-avro](https://github.com/holixon/axon-avro)
+
 <!--
 **jangalinski/jangalinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
