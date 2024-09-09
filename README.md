@@ -10,6 +10,10 @@
   - [kotlin-code-generation](https://github.com/toolisticon/kotlin-code-generation)
   - [axon-avro](https://github.com/holixon/axon-avro)
 
+### Building block I use
+
+ - [maven-parent-kotlin-base](https://github.com/toolisticon/maven-parent-kotlin-base)
+
 <!--
 **jangalinski/jangalinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
